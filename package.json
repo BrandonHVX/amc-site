@@ -19,7 +19,6 @@
     ],
     "license": "MIT",
     "scripts": {
-        "start": "node index.js",
         "build": "gatsby build",
         "develop": "gatsby develop",
         "format": "prettier --write '**/*.js'",
